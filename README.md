@@ -7,6 +7,8 @@ So I forked this one, I'll compile the library and add gradle support, because w
 
 _If you have any questions, feel free to reach me in issues._
 
+## The actual contents of the readme file
+
 This project is an Android library to provide an API to access an external USB
 webcam that supports UVC. The library provides an in-process service
 (`WebcamManager`) so that multiple parts of an application can share the same
