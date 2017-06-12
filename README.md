@@ -1,7 +1,7 @@
 Android Webcam Library
 ======================
 
-## I mean "no gradle?", for real?
+## I mean no gradle, for real?
 
 So I forked this one, I'll compile the library and add gradle support, because why the hell not?
 
